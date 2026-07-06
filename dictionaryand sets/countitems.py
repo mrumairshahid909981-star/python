@@ -3,4 +3,6 @@ fruits = {
     "banana": 8,
     "orange": 3
 }
-print(fruits.count)
+print(len(fruits))
+print(fruits.keys())
+print(fruits.values())
